@@ -1,0 +1,35 @@
+{
+  "name": "rxjsdemo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/jest": "^20.0.2",
+    "@types/material-ui": "^0.17.12",
+    "@types/node": "^8.0.2",
+    "@types/react": "^15.0.31",
+    "@types/react-dom": "^15.5.1",
+    "material-ui": "^0.18.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^4.0.8",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.7.0",
+    "redux-observable": "^0.14.1",
+    "rxjs": "^5.4.1",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "@types/react-redux": "^4.4.45",
+    "@types/react-tap-event-plugin": "^0.0.30",
+    "@types/shortid": "^0.0.29",
+    "react-scripts-ts": "2.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
